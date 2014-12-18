@@ -16,10 +16,10 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: bold;
   margin: 0;
-  display: block;
+  margin-top: 14px;
   float: left; }
 
 @-webkit-keyframes $animation-name {
